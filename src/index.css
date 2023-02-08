@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.form-modal{max-width: 60%;
+  width: 100%;
+  margin: 0 auto;}
+.css-hz1bth-MuiDialog-container{
+  display: block !important;
+  height: inherit !important;
+}
+.css-1t1j96h-MuiPaper-root-MuiDialog-paper{max-width: none !important;}
+.form-bt{
+  margin-top: 10px;
+  text-align: center;
+}
+.sign-btn{text-align: right; margin-top: 10px !important;}
+.form-tabl {
+  max-width: 90%;
+  width: 100%;
+  margin: 0 auto;
+}
